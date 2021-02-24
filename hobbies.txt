@@ -1,3 +1,6 @@
 music
 dancing
 cooking
+
+Workflow pt. 2
+hobbies = [skateboarding, surfing, snowboarding]
