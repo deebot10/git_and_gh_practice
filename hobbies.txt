@@ -3,4 +3,6 @@ dancing
 cooking
 
 Workflow pt. 2
-hobbies = [skateboarding, surfing, snowboarding]
+hobbies = ["skateboarding", "surfing", "snowboarding"]
+
+hobbies_2 = ["Volleyball", "Football", "Baseball"]
