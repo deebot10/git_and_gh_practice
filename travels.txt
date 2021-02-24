@@ -2,3 +2,5 @@ My favorite travel experience was in Hati
 
 
 puts "I have been to s few Caribbean Islands"
+
+puts "I have also been to Mexico"
